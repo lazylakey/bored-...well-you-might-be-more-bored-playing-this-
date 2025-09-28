@@ -1,0 +1,1 @@
+if your using android, unpack the zip file, and just open the html file, if it says what to open it in, open it with chrome becuz idk if it works with anything else, im sure it will work on Windows and linux...I hope
